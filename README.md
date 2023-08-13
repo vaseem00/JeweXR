@@ -29,3 +29,8 @@ Once you are satisfied with the 3D model, you can download it or 3D print it.
 If you have any ideas for improving the project, please feel free to open an issue or submit a pull request.
 
 # License:
+
+This project is licensed under the terms of the MIT license.
+
+# Acknowledgments:
+
